@@ -1,2 +1,2 @@
 # Google-Photos-Takeout
-Bash script for parsing the metadata that google stores about each photo in json file in the variable "localFolderName", so they could be transferred to the correct Folder.
+Bash script for extracting the variable "localFolderName" from the metadata in json file in order to transfer photo/video to the correct folder.
